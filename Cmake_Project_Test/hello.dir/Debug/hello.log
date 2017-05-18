@@ -1,0 +1,16 @@
+﻿生成启动时间为 5/17/2017 10:36:29 AM。
+     1>项目“D:\Workspace_VS2012\Gitspace\Cmake_Project_Test\hello.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/Workspace_VS2012/Gitspace/Cmake_Project_Test/CMakeLists.txt
+         CMake does not need to re-run because D:/Workspace_VS2012/Gitspace/Cmake_Project_Test/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"hello.dir\Debug\\" /Fd"hello.dir\Debug\vc110.pdb" /Gd /TC /errorReport:prompt D:\Workspace_VS2012\Gitspace\Cmake_Project_Test\main.c
+         main.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Workspace_VS2012\Gitspace\Cmake_Project_Test\Debug\hello.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Workspace_VS2012/Gitspace/Cmake_Project_Test/Debug/hello.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Workspace_VS2012/Gitspace/Cmake_Project_Test/Debug/hello.lib" /MACHINE:X64   /machine:x64 hello.dir\Debug\main.obj
+         hello.vcxproj -> D:\Workspace_VS2012\Gitspace\Cmake_Project_Test\Debug\hello.exe
+     1>已完成生成项目“D:\Workspace_VS2012\Gitspace\Cmake_Project_Test\hello.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89
