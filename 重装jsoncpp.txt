@@ -1,0 +1,16 @@
+1. 添加路径
+
+路径
+
+Jsoncpp lib   : /usr/local/lib/libjson_linux-gcc-5.4.0_libmt.so
+
+添加到
+
+
+CMakeCache.txt
+
+
+
+2. sudo make
+
+用超级用户的权限进行相关的重要的操作，比如编译GPU源代码
