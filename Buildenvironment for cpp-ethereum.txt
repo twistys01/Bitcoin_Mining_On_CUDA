@@ -1,1 +1,0 @@
-here we should buid environment for cpp-ethereum

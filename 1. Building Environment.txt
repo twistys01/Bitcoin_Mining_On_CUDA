@@ -1,5 +1,0 @@
-1. 安装Cmake
-
-2. Cmake 编译opencv 参考http://www.nmtree.net/2014/03/19/windows_build-opencv-with-cmake-and-vs2013.html
-
-3. 探索： Cmake 结合 VS2012 编译 https://github.com/ethereum-mining/ethminer

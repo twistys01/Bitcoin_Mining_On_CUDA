@@ -1,1 +1,0 @@
-next step: directly put depedency libs into path of applications

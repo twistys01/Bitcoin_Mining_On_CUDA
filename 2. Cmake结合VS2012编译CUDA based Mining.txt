@@ -1,3 +1,0 @@
-下一步就是参考cmake在vs下编译opencv的方案，
-
-探索在cmake和vs2012中编译ethereum mining based on CUDA的方案
