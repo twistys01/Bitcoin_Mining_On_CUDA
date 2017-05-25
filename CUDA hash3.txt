@@ -1,0 +1,1 @@
+here we should run hash3 codes on cuda
