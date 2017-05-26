@@ -1,1 +1,3 @@
 here we should run hash3 codes on cuda
+
+we should find some cuda codes based on hash3
